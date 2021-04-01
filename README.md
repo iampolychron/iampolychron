@@ -1,5 +1,5 @@
 ### Hi there 👋
-**I'm currently working on: **(cmd-apps)_[github.com/youngdevelopers/cmd-apps]_
+**I'm currently working on: **(cmd-apps)[github.com/youngdevelopers/cmd-apps]
 
 <!--
 **sadpolychron/sadpolychron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
