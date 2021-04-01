@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🌱 I’m currently learning **Markdown** and **TSQL**
-_AND_
+- _AND_
 - 🔭 I’m currently working on **PythonComms**
 
 <!--
