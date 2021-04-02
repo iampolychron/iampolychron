@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🌱 I’m currently learning **Markdown** and **PowerShell**
 - _AND_
-- 🔭 I’m currently working on **ReMS-DOS**
+- 🔭 I’m currently working on **CustomPowerShell**
 
 <!--
 **sadpolychron/sadpolychron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
