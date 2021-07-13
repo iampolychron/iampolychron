@@ -1,8 +1,7 @@
 ### Hi there 👋
 - 🌱 I’m currently learning **Batch**
-- _AND_
-- 🔭 I’m currently working on 
-
+_AND_
+- 👯 I’m looking to collaborate on **Mojang Studios/brigadier**
 <!--
 **sadpolychron/sadpolychron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
