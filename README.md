@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🌱 I’m currently learning **Batch**
 
-- 👯 I’m looking to collaborate on **Mojang Studios/brigadier**
+- 👯 I’m looking to collaborate on **bitcoin/bitcoin**
 
 - 📫 How to reach me: [https://campsite.bio/iampolychron](https://campsite.bio/iampolychron)
 <!--
