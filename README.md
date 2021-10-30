@@ -3,7 +3,7 @@
 
 - 👯 I’m looking to collaborate on **bitcoin/bitcoin**
 
-- 📫 How to reach me: [https://campsite.bio/iampolychron](https://campsite.bio/iampolychron)
+- 📫 How to reach me: 
 <!--
 **iampolychron/iampolychron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
