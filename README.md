@@ -1,7 +1,7 @@
 ### Hi there 👋
-- 🌱 I’m currently learning **Batch**
+- 🌱 I’m currently learning **Kotlin**
 
-- 👯 I’m looking to collaborate on **bitcoin/bitcoin**
+- 😄 Pronouns: He/Him
 
 - 📫 How to reach me: [https://campsite.bio/polychronis.p](https://campsite.bio/polychronis.p)
 <!--
