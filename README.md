@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning **Kotlin**
+- 🌱 I’m currently learning **Python and use of some py modules**
 
 - 😄 Pronouns: He/Him
 
